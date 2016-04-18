@@ -10,7 +10,7 @@ Follow the steps below to run the code on a Debian Stretch.
 
     apt-get update && apt-get -y install build-essential virtualenv
     
-Clone the repository
+Clone this project's repository
 
     git clone git@bitbucket.org:<repository-url>.git
     
