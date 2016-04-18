@@ -1,0 +1,5 @@
+# Editor temp files
+*~
+
+# Jupiter checkpoint files
+.ipynb_checkpoints
